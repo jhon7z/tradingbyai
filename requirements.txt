@@ -1,0 +1,6 @@
+MetaTrader5>=5.0.5488
+python-telegram-bot==20.7
+pandas
+numpy
+scipy
+python-dotenv
