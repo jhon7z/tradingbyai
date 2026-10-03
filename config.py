@@ -2,17 +2,17 @@ import os
 import MetaTrader5 as mt5
 
 # ─── MT5 Credentials (Langsung Isi Disini) ───────────────────────────────────
-MT5_LOGIN    = 1342858
-MT5_PASSWORD = "q%8THkE1"
-MT5_SERVER   = "VTMarkets-Demo"
+MT5_LOGIN    = 123456789
+MT5_PASSWORD = ""
+MT5_SERVER   = ""
 
 # ─── Telegram Credentials ────────────────────────────────────────────────────
-TELEGRAM_TOKEN   = "8954717025:AAGSalXeXz6L7oHNF7VrcagybPK4NSN-RPo"
-TELEGRAM_CHAT_ID = "1486922202"
+TELEGRAM_TOKEN   = ""
+TELEGRAM_CHAT_ID = ""
 
 # ─── 9Router AI Multi-Model Config ───────────────────────────────────────────
-ROUTER_BASE_URL   = "http://127.0.0.1:20128/v1"
-ROUTER_API_KEY    = "sk-ad47112bd364c7f6-bcpwyg-ba2d05d5"
+ROUTER_BASE_URL   = ""
+ROUTER_API_KEY    = "sk-"
 ROUTER_MODELS     = ["ag/gemini-3.8-flash-high","gemini/gemini-3.5-flash-lite","kr/deepseek-3.2"]
 USE_AI_VALIDATION = True
 
